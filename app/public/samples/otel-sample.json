@@ -1,0 +1,736 @@
+{
+  "resourceMetrics": [
+    {
+      "resource": {
+        "attributes": [
+          {
+            "key": "service.name",
+            "value": {
+              "stringValue": "claude-code"
+            }
+          },
+          {
+            "key": "team",
+            "value": {
+              "stringValue": "payments"
+            }
+          },
+          {
+            "key": "repo",
+            "value": {
+              "stringValue": "pay-api"
+            }
+          }
+        ]
+      },
+      "scopeMetrics": [
+        {
+          "scope": {
+            "name": "com.anthropic.claude_code",
+            "version": "2.1.0"
+          },
+          "metrics": [
+            {
+              "name": "claude_code.cost.usage",
+              "unit": "USD",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "zoe.haddad@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0001"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813000000000000",
+                    "timeUnixNano": "1791813600000000000",
+                    "asDouble": 3.42
+                  }
+                ]
+              }
+            },
+            {
+              "name": "claude_code.token.usage",
+              "unit": "tokens",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "zoe.haddad@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0001"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "input"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813000000000000",
+                    "timeUnixNano": "1791813600000000000",
+                    "asInt": "182000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "zoe.haddad@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0001"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "output"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813000000000000",
+                    "timeUnixNano": "1791813600000000000",
+                    "asInt": "24100"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "zoe.haddad@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0001"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "cacheRead"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813000000000000",
+                    "timeUnixNano": "1791813600000000000",
+                    "asInt": "1250000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "zoe.haddad@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0001"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "cacheCreation"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813000000000000",
+                    "timeUnixNano": "1791813600000000000",
+                    "asInt": "52000"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "claude_code.lines_of_code.count",
+              "unit": "count",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "zoe.haddad@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0001"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "added"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813000000000000",
+                    "timeUnixNano": "1791813600000000000",
+                    "asInt": "86"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource": {
+        "attributes": [
+          {
+            "key": "service.name",
+            "value": {
+              "stringValue": "claude-code"
+            }
+          },
+          {
+            "key": "team",
+            "value": {
+              "stringValue": "payments"
+            }
+          },
+          {
+            "key": "repo",
+            "value": {
+              "stringValue": "ledger-core"
+            }
+          }
+        ]
+      },
+      "scopeMetrics": [
+        {
+          "scope": {
+            "name": "com.anthropic.claude_code",
+            "version": "2.1.0"
+          },
+          "metrics": [
+            {
+              "name": "claude_code.cost.usage",
+              "unit": "USD",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "lucas.bergman@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0002"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-opus-4-1"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813600000000000",
+                    "timeUnixNano": "1791814200000000000",
+                    "asDouble": 9.87
+                  }
+                ]
+              }
+            },
+            {
+              "name": "claude_code.token.usage",
+              "unit": "tokens",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "lucas.bergman@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0002"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-opus-4-1"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "input"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813600000000000",
+                    "timeUnixNano": "1791814200000000000",
+                    "asInt": "96000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "lucas.bergman@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0002"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-opus-4-1"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "output"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813600000000000",
+                    "timeUnixNano": "1791814200000000000",
+                    "asInt": "31000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "lucas.bergman@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0002"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-opus-4-1"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "cacheRead"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813600000000000",
+                    "timeUnixNano": "1791814200000000000",
+                    "asInt": "2100000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "lucas.bergman@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0002"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-opus-4-1"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "cacheCreation"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813600000000000",
+                    "timeUnixNano": "1791814200000000000",
+                    "asInt": "70000"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "claude_code.lines_of_code.count",
+              "unit": "count",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "lucas.bergman@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0002"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-opus-4-1"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "added"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791813600000000000",
+                    "timeUnixNano": "1791814200000000000",
+                    "asInt": "24"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource": {
+        "attributes": [
+          {
+            "key": "service.name",
+            "value": {
+              "stringValue": "claude-code"
+            }
+          },
+          {
+            "key": "team",
+            "value": {
+              "stringValue": "platform"
+            }
+          },
+          {
+            "key": "repo",
+            "value": {
+              "stringValue": "platform-core"
+            }
+          }
+        ]
+      },
+      "scopeMetrics": [
+        {
+          "scope": {
+            "name": "com.anthropic.claude_code",
+            "version": "2.1.0"
+          },
+          "metrics": [
+            {
+              "name": "claude_code.cost.usage",
+              "unit": "USD",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "mia.castillo@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0003"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791814200000000000",
+                    "timeUnixNano": "1791814800000000000",
+                    "asDouble": 1.76
+                  }
+                ]
+              }
+            },
+            {
+              "name": "claude_code.token.usage",
+              "unit": "tokens",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "mia.castillo@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0003"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "input"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791814200000000000",
+                    "timeUnixNano": "1791814800000000000",
+                    "asInt": "91000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "mia.castillo@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0003"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "output"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791814200000000000",
+                    "timeUnixNano": "1791814800000000000",
+                    "asInt": "12800"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "mia.castillo@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0003"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "cacheRead"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791814200000000000",
+                    "timeUnixNano": "1791814800000000000",
+                    "asInt": "640000"
+                  },
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "mia.castillo@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0003"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "cacheCreation"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791814200000000000",
+                    "timeUnixNano": "1791814800000000000",
+                    "asInt": "21000"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "claude_code.lines_of_code.count",
+              "unit": "count",
+              "sum": {
+                "aggregationTemporality": 1,
+                "isMonotonic": true,
+                "dataPoints": [
+                  {
+                    "attributes": [
+                      {
+                        "key": "user.email",
+                        "value": {
+                          "stringValue": "mia.castillo@northwind.example"
+                        }
+                      },
+                      {
+                        "key": "session.id",
+                        "value": {
+                          "stringValue": "sample-sess-0003"
+                        }
+                      },
+                      {
+                        "key": "model",
+                        "value": {
+                          "stringValue": "claude-sonnet-4-5"
+                        }
+                      },
+                      {
+                        "key": "type",
+                        "value": {
+                          "stringValue": "added"
+                        }
+                      }
+                    ],
+                    "startTimeUnixNano": "1791814200000000000",
+                    "timeUnixNano": "1791814800000000000",
+                    "asInt": "41"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

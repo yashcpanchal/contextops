@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ContextOps Pitch</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+  html, body { margin: 0; height: 100%; background: #0B1422; overflow: hidden; }
+  .stage { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+  section { position: absolute !important; left: 50%; top: 50%; width: 1920px; height: 1080px;
+             box-sizing: border-box; transform-origin: center center; }
+  section:not(.active) { display: none !important; }
+  section * { margin: 0; box-sizing: border-box; }
+  section ul { padding-left: 1.2em; }
+  section table { border-collapse: collapse; width: 100%; }
+  section th, section td { border-bottom: 1px solid #DCDDD5; padding: 12px 14px; vertical-align: top; }
+  .hint { position: fixed; bottom: 10px; right: 16px; color: #8A97A8; font: 13px system-ui, sans-serif; }
+  @media print {
+    @page { size: 1920px 1080px; margin: 0; }
+    html, body { overflow: visible; height: auto; background: none; }
+    .stage { position: static; display: block; }
+    section, section:not(.active) { display: flex !important; position: relative !important; left: 0; top: 0; transform: none !important; page-break-after: always; }
+    .hint { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="stage">
+<section id="cover" data-transition="fade" style="background:#0F1B2D;color:#EEF1EC;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;justify-content:space-between">
+<div style="display:flex;flex-direction:column;gap:28px">
+<p style="font-size:26px;font-weight:600;letter-spacing:5px;text-transform:uppercase;color:#4FD1A1">ContextOps · The problem</p>
+<h1 style="font-family:'Space Grotesk', Arial, sans-serif;font-size:76px;font-weight:700;line-height:1.1;color:#F6F5F0">Companies are pouring money into AI coding tools, and can't tell what it buys.</h1>
+</div>
+<div style="display:flex;gap:64px">
+<div style="flex:1;display:flex;flex-direction:column;gap:12px">
+<p style="font-family:'Space Grotesk', Arial, sans-serif;font-size:96px;font-weight:700;line-height:1;color:#4FD1A1">86%</p>
+<p style="font-size:28px;line-height:1.35;color:#C3CCD6">of engineering leaders can't say which AI tools pay off</p>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:12px">
+<p style="font-family:'Space Grotesk', Arial, sans-serif;font-size:96px;font-weight:700;line-height:1;color:#4FD1A1">2028</p>
+<p style="font-size:28px;line-height:1.35;color:#C3CCD6">AI coding costs pass the average developer salary</p>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:12px">
+<p style="font-family:'Space Grotesk', Arial, sans-serif;font-size:96px;font-weight:700;line-height:1;color:#4FD1A1">98%</p>
+<p style="font-size:28px;line-height:1.35;color:#C3CCD6">of FinOps teams now manage AI spend, up from 31%</p>
+</div>
+</div>
+<p style="font-size:34px;line-height:1.35;color:#F6F5F0;border-left:4px solid #4FD1A1;padding:4px 0 4px 32px">Why it matters: engineering managers now own a budget that grows every month, with no way to tie it to what actually shipped.</p>
+<p style="position:absolute;left:128px;bottom:64px;width:1664px;font-size:24px;color:#8A97A8">Sources: DX survey of 275 leaders · Gartner, Jun 2026 · FinOps Foundation, State of FinOps 2026</p>
+
+</section>
+<section id="traction" data-transition="fade" style="background:#F6F5F0;color:#1B2433;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:64px">
+<div style="display:flex;flex-direction:column;gap:20px">
+<p style="font-size:26px;font-weight:600;letter-spacing:5px;text-transform:uppercase;color:#16784F">ContextOps · This semester</p>
+<h2 style="font-family:'Space Grotesk', Arial, sans-serif;font-size:72px;font-weight:700;line-height:1.1;color:#0F1B2D">From research to a working product</h2>
+</div>
+<div style="display:flex;gap:72px;align-items:center">
+<div style="width:620px;display:flex;flex-direction:column;gap:44px">
+<div style="display:flex;flex-direction:column;gap:8px">
+<p style="font-family:'Space Grotesk', Arial, sans-serif;font-size:36px;font-weight:700;color:#16784F">01  Researched</p>
+<p style="font-size:28px;line-height:1.35;color:#3A4556">2,200+ engineer posts and 35 startup ideas scored. This one won every round.</p>
+</div>
+<div style="display:flex;flex-direction:column;gap:8px">
+<p style="font-family:'Space Grotesk', Arial, sans-serif;font-size:36px;font-weight:700;color:#16784F">02  Built</p>
+<p style="font-size:28px;line-height:1.35;color:#3A4556">A working MVP that ties Claude Code, Cursor and Copilot spend to merged code, and fixes waste in one click.</p>
+</div>
+<div style="display:flex;flex-direction:column;gap:8px">
+<p style="font-family:'Space Grotesk', Arial, sans-serif;font-size:36px;font-weight:700;color:#16784F">03  Next</p>
+<p style="font-size:28px;line-height:1.35;color:#3A4556">20 customer interviews and 5 design partners.</p>
+</div>
+</div>
+<img src="assets/mvp.png" alt="ContextOps MVP overview dashboard showing AI coding spend by tool, cost per merged PR and savings identified" style="width:972px;height:471px;object-fit:contain;border-radius:16px;border:1px solid #DCDDD5;box-shadow:0 24px 64px rgba(15,27,45,0.16)">
+</div>
+
+</section>
+
+</div>
+<div class="hint">← → to navigate · Ctrl/Cmd+P to save as PDF</div>
+<script>
+  const slides = [...document.querySelectorAll('section')];
+  let i = 0;
+  function fit() {
+    const s = Math.min(innerWidth / 1920, innerHeight / 1080);
+    slides.forEach(el => el.style.transform = 'translate(-50%, -50%) scale(' + s + ')');
+  }
+  function show(n) {
+    i = Math.max(0, Math.min(slides.length - 1, n));
+    slides.forEach((el, k) => el.classList.toggle('active', k === i));
+  }
+  addEventListener('keydown', e => {
+    if (['ArrowRight', 'PageDown', ' '].includes(e.key)) show(i + 1);
+    if (['ArrowLeft', 'PageUp'].includes(e.key)) show(i - 1);
+  });
+  addEventListener('click', () => show(i + 1 >= slides.length ? 0 : i + 1));
+  addEventListener('resize', fit);
+  fit(); show(0);
+</script>
+</body>
+</html>

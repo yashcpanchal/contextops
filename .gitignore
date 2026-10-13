@@ -1,0 +1,17 @@
+# Tool caches
+.playwright-mcp/
+
+# Raw scraped datasets (large; Speedrun export includes founders' personal profile links).
+# Regenerate with the URLs listed in research/round3/BRIEF.md.
+research/round3/data/
+
+# Office lock files and superseded deck drafts
+~$*
+pitch-deck/ContextOps-pitch-v3.pptx
+pitch-deck/slide*.png
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

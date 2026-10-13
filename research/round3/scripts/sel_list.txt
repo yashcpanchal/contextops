@@ -1,0 +1,514 @@
+Sp25|Partcl| Engineering, |tsNone|H|Design a chip in minutes
+Sp25|Plexe| Engineering, |ts2|H|Open-source agents to build predictive ML models from a prompt
+Sp25|Aravolta| Infrastructur|ts4|H|Software to monitor, control, and optimize data centers.
+Sp25|Vybe| Engineering, |ts8||Secure internal apps. Built by AI in seconds. Powered by your data.
+Sp25|Golf| Security|ts1||Agentic AI Security and Governance
+Sp25|cubic| Engineering, |ts6|H|AI-powered code review platform
+Sp25|Bloom| Engineering, |ts2|H|Build and share mobile apps in seconds
+Sp25|Avallon AI|h -> Insurance|ts7|H|AI agents for insurance claims operations
+Sp25|GroundControl|rials -> Aviat|ts8|H|Vertical AI for highly-regulated manufacturing
+Sp25|Kanava AI| Supply Chain |ts2||Your First AI Sales Hire for Wholesale Distributors
+Sp25|Cua| Engineering, |ts3|H|Give every agent a cloud desktop
+Sp25|Auctor||ts30|H|The agentic operating system for modern system integrators.
+Sp25|Capacitive| Engineering, |ts2||The data gateway for agents.
+Sp25|Feyn| Engineering, |ts3||Custom models trained on your data
+Sp25|HelixDB| Engineering, |ts6||The fastest & most scalable graph-vector database on the market
+Sp25|Zeon Systems|rials -> Manuf|ts5||AI-powered robotics for scientific lab automation.
+Sp25|Method| Engineering, |ts1||Agents that improve
+Sp25|Clarm| Productivity|ts2||Build governed AI agents on your own data, without code
+Sp25|Sim||ts10|H|Build autonomous AI agents for enterprise systems
+Sp25|stratify||ts2||AI agents that help you understand your customers' needs
+Sp25|Caucus|ment|ts3||AI CRM for Government
+Sp25|PgDog| Infrastructur|ts3|H|Scaling engine for PostgreSQL
+Sp25|Attune| Engineering, |ts3|H|Faster builds, zero effort.
+Sp25|Bluejay||ts10|H|Test, monitor, and improve your voice and chat AI agents
+Sp25|Better Auth| Security|ts4||The authentication framework for TypeScript
+Sp25|Parsewise||ts6|H|Multi-document processing for your risk teams, AI agents, pipelines
+Sp25|Refresh| Engineering, |ts8||Training gyms for computer use and software engineering work
+Sp25|Tinfoil| Security|ts5||Encrypted AI with verifiable privacy
+Sp25|Jeevy Fabrication| Engineering, |ts3|H|AI Driven EPC - Weld Fabrication Contractor
+Sp25|Combinely| Finance and A|ts8||AI Coworker for Accountants
+Sp25|Freesolo| Engineering, |ts4||Product Native Models
+Sp25|Sixtyfour| Infrastructur|ts12|H|Intelligence Infrastructure on People and Entities
+Sp25|Photonium| Engineering, |ts5|H|AI-Powered Optical Consulting & Software
+Sp25|HABIT||tsNone||Accelerating world models.
+Sp25|RunRL| Infrastructur|ts2||Reinforcement learning as a service
+Sp25|Casco| Security|ts10|H|Autonomous security testing for web apps, APIs, cloud, and AI systems
+Sp25|throxy| Sales|ts55|H|Vertical AI agents running B2B outbound on autopilot, with human SDRs
+Sp25|IRBC|h -> Banking a|ts3||AI-native financial institution for global businesses + agents.
+Sp25|Novoflow|care -> Health|ts6|H|Computer-using agents for healthcare operations
+Sp25|Prism| Engineering, |ts2||Abundant Intelligence for Everyone
+Sp25|QualGent||ts10|H|AI Mobile App Quality Assurance Tester
+Sp25|Human Behavior| Engineering, |ts3||Understand your users beyond the numbers
+Sp25|Alkali| Engineering, |ts2|H|The smarter way to estimate steel.
+Sp25|Klavis AI||ts3|H|High Quality Coding & Agentic Data for AI labs
+Sp25|ParaQuery| Infrastructur|ts1||Managed GPU-accelerated Spark + SQL at 2x speed and half the cost
+Sp25|Vassar Robotics|er -> Consumer|ts3||Open-source semi-humanoid dev kit → home data → autonomy → 20h/wk
+Sp25|MorphoAI|rials -> Manuf|ts7|H|Software tool for designing robots and machines 
+Sp25|Bramante|rials -> Manuf|ts2||Life sciences reagents and software
+Sp25|Hemut| Supply Chain |ts3|H|AI-powered operating system for trucking companies.
+Sp25|Kairos| Infrastructur|ts3||Specialized AI for Critical Industries
+Sp25|Naïve| Infrastructur|ts8|H|Autonomous Company Infrastructure
+Sp25|Mesmer| Engineering, |ts7|H|The operating system for the 100x Engineering Team
+Sp25|MindFort| Security|ts6|H|Autonomous Security Agents
+Sp25|Probo| Security|ts6||We help you get compliant while you focus on your business.
+Sp25|Adentris|care -> Health|ts5|H|Real-time AI Compliance & Revenue Integrity for Medical Providers
+Sp25|Rimba|rials -> Clima|ts4||Streamlining Data Capture to Report Creation for Heavy Industries
+Sp25|Moby Analytics| Finance and A|ts4||AI financial auditors
+Sp25|Nimbic AI| Engineering, |ts3||Automatically write and update internal docs with every code commit.
+Sp25|Pelica|care -> Health|ts5||AI agents for risk-bearing healthcare organizations
+Sp25|Cotool| Security|ts4|H|AI Agents for Security Operations Teams
+Sp25|Propolis||ts2||Hands off QA via intelligent browser agents. 
+Sp25|Lumari| Supply Chain |ts5|H|AI Digital Workers for Supply Chain 
+Sp25|Code Four|ment|ts3|H|Modernizing the police workflow.
+Sp25|StarSling| Engineering, |ts3||Self-Driving CI: fast AI-native GitHub Actions runners
+Sp25|Theorem| Engineering, |ts4|H|Program verification so even your systems engineers can vibecode
+Sp25|Airweave| Infrastructur|ts7|H|The open-source context retrieval layer for agents
+Sp25|sieve| Finance and A|ts2||AI + human review to solve data cleaning - accessible via API or Excel
+Sp25|BitPatrol| Security|ts1||AI-powered code security
+Sp25|Godela| Engineering, |ts10|H|AI Physics Engine to replace simulations and prototypes
+Sp25|Docket| Engineering, |ts2||AI agents for web testing
+Su25|Stormy| Operations|ts5|| Stormy runs the office so your crew can run the work.
+Su25|Monte| Engineering, |ts3||Continual Learning for Agents
+Su25|Cactus Compute| Engineering, |ts8||Automation Foundation Models For Tiny Devices
+Su25|Synthetic Society| Engineering, |ts2|H|Synthetic Videos to Simulate Real Users
+Su25|Preseen| Analytics|ts1||The AI forecasting company for global macro events. 
+Su25|Closera||ts2||AI Shopping Agent for Your Ecommerce Store
+Su25|Dedalus Labs| Infrastructur|ts8|H|Persistent computers for AI agents
+Su25|Halluminate||ts5|H|Data and RL environments to automate knowledge work
+Su25|TraceRoot.AI| Engineering, |ts4|H|Open Source AI Agent Improvement Platform
+Su25|AgentMail| Infrastructur|ts10|H|Email Inboxes for AI Agents
+Su25|truthsystems| Infrastructur|ts6|H|Automatically blocking risky behavior with real-time governance agents
+Su25|Lanesurf||ts11|H|Book any load in 10 minutes
+Su25|Playgent|care -> Health|ts2||Sandboxes for AI agents
+Su25|LLM Stats| Infrastructur|ts2||Independent AI evaluations lab
+Su25|ContextFort| Security|ts2||Visibility and Controls for Browser Agents
+Su25|Datafruit| Engineering, |ts2||The AI workspace for software implementations
+Su25|Topological| Engineering, |ts2||Physics-based foundation models for CAD optimization.
+Su25|Lark| Engineering, |ts5||The E2E testing layer for AI-driven development
+Su25|Bitrig| Engineering, |ts3||Build and ship native Swift apps with AI
+Su25|Orange Slice| Sales|ts2|H|Agentic sales enrichment spreadsheet
+Su25|Nuntius| Infrastructur|ts2||Making Models Follow Rules.
+Su25|Wafer| Engineering, |ts15||AI that makes AI fast
+Su25|Panels| Engineering, |ts1|H|Audio Data for AI Labs
+Su25|Cyberdesk| Engineering, |ts2||Self learning computer use agent for developers
+Su25|Janet AI||ts5||Agents that learn your company and work 24/7
+Su25|Lilac||ts4||We sell GPUs.
+Su25|Imprezia| Infrastructur|ts4|H|The World's First AI Ad Network.
+Su25|Alter| Security|ts2||Privileged Access Management for AI Agents
+Su25|Proliferate| Engineering, |tsNone|H|Do your life's work with agents
+Su25|Magnitude| Engineering, |ts2||Run open models as fast as your hardware allows
+Su25|Stockline||ts2||AI-native ERP for food wholesalers
+Su25|Tesora|h -> Insurance|ts5|H|Frontier AI for Actuaries
+Su25|Kestroll|er -> Content|ts2||AI video editor
+Su25|Pangolin| Infrastructur|ts3|H|Open networking and security for your workforce, AI agents, and infra
+Su25|cocreate|er -> Content|ts10||video production software
+Su25|BootLoop| Engineering, |ts3|H|Firmware in minutes, not months - rigorously tested on real hardware
+Su25|Stellon Labs| Engineering, |ts2||Building tiny frontier AI models that run on edge devices
+Su25|Riverbank| Infrastructur|ts1||Infrastructure Cartography
+Su25|Fulcrum| Analytics|ts2||The agentic debugger for AI systems
+Su25|b12 Labs|care -> Drug D|ts3|H|Making hard molecules for Pharma and Biotech
+Su25|Embedder| Engineering, |ts6||Hardware-Aware AI for Embedded Software
+Su25|Channel3| Retail|ts5|H|Database of every product on the internet
+Su25|GhostEye| Security|ts6||Your always-on red team.
+Su25|Comena| Supply Chain |ts8|H|AI agents for distributors and manufacturers to automate order entry.
+Su25|TwentyTwo|care -> Indust|ts3||AI infrastructure for biosecurity
+Su25|Manufact| Infrastructur|ts5|H|Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.
+Su25|Relling| Infrastructur|tsNone|H|deploying the first billion robots for manufacturing
+Su25|Motives| Marketing|tsNone||Consumer focus groups run by AI
+Su25|Finto| Finance and A|ts10|H|AI accounting for enterprise finance teams
+Su25|Autosana| Engineering, |ts5||AI agents for E2E testing across mobile & web
+Su25|Omnara| Engineering, |ts4||The Open-Source Alternative to Claude Managed Agents
+Su25|Risely AI|ion|ts8||AI agents that automate administrative work across college campuses. 
+Su25|Minimal AI||ts3||AI Agents for E-commerce Customer Support
+Su25|Floot| Engineering, |ts4|H|The app platform inside Claude and ChatGPT.
+Su25|idler| Engineering, |ts12|H|Hill-climb any benchmark, for any model, in any domain.
+Su25|Altur||ts9||Voice AI Agents for Debt Collection
+Su25|Quotain| Sales|ts2||AI sales roleplay built from your real deals
+Su25|Metis| Infrastructur|ts13||Infrastructure to build reliable agents
+Su25|SigmanticAI| Engineering, |ts2||The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs…
+Su25|Notte||ts5||Browser infra for AI agents: sessions, auth, proxies, payments
+Su25|Hera| Engineering, |ts5|H|AI Motion Designer
+Su25|KERNEL| Infrastructur|ts22||Crazy fast, open source infra for AI agents to use the Internet
+Su25|Rebulk| Supply Chain |ts3||AI-native software for managing rail and bulk operations.
+Su25|Okibi||ts2||Turns products into CLIs and agents into customers
+Su25|stagewise| Engineering, |ts2||The makers of Klex Bots, your own team of digital coworkers.
+Su25|Magnetic| Productivity|ts10|H|AI Tax Preparer for CPA firms
+Su25|Modelence| Infrastructur|ts3||Production infrastructure on autopilot
+Su25|Interfere| Engineering, |ts8|H|Give engineering, product, and design teams insight into unseen issues
+Su25|Spotlight Realty|state and Cons|ts4||AI powered brokerage reducing residential rental commissions in NYC…
+Su25|Vulcan Technologies| Legal|ts17|H|Secure frontier AI for government & adjacent knowledge work
+Su25|Sapien||ts2||Synthetic populations for decisions
+Su25|Veritus|h -> Credit an|ts10|H|AI agents for the consumer lending industry
+Su25|Avent||ts5|H|AI agents for industrial commerce
+Su25|Luminal| Infrastructur|ts7|H|Making AI run fast on any hardware.
+Su25|Paloma||ts3||Digital transformation for real economy businesses
+Su25|F2| Engineering, |ts15|H|The AI platform for private markets investors
+Fa25|MSPilot| Engineering, |ts3|H|Turn AI adoption into a recurring revenue line.
+Fa25|Semiotic| Engineering, |ts3||Studio-Grade Design at Scale
+Fa25|Remedy|care|ts2||AI Agents for Pharmacies
+Fa25|Brickanta| Infrastructur|ts25|H|Agentic AI for Society Builders
+Fa25|Structured AI|state and Cons|ts11|H|The AI drawing review platform for architects and engineers.
+Fa25|Parse||ts4||Build an API to interact with any website.
+Fa25|MOVEdot| Engineering, |ts10||AI Agents for Hardware Engineering
+Fa25|Nexus||ts2||We help non-technical teams build AI agents without engineers
+Fa25|Hyperspell| Infrastructur|ts8|H|Your Company Brain
+Fa25|Scoop||ts2||Automating regulatory submissions for life sciences
+Fa25|Aspect| Engineering, |ts3|H|Intelligent media storage for creative teams.
+Fa25|Deeptrace||ts4|H|AI agents for on-call
+Fa25|Locus| Engineering, |ts2||Payment infrastructure for AI agents
+Fa25|Caddy| Engineering, |ts5||Your Personal AI for everyday work. Lives in your texts.
+Fa25|The Context Company| Engineering, |ts2||Find what's losing you customers and money in your AI agent and fix it
+Fa25|dari.dev| Engineering, |ts2||The Routing Layer for AI Agents
+Fa25|Minro| Engineering, |ts2||Identify churn risk and stay close to users at scale
+Fa25|Veria Labs| Security|ts3||Continuous AI pentesting that finds and fixes vulnerabilities
+Fa25|Trelium||ts11|H|AI Agents for Enterprise Wide Operations
+Fa25|Cranston AI| Finance and A|ts2||AI Tax prep and accounting software for CPA firms
+Fa25|Nessie||ts3|H|The shared context layer for recursive companies - your work, your…
+Fa25|AtlasGrid| Engineering, |ts6||Accelerate Product Iteration
+Fa25|hillclimb| Engineering, |ts4||Training Data for Recursive Self-Improvement
+Fa25|Flick|er -> Content|ts2|H|We Handle AI. You Direct Films.
+Fa25|SF Tensor| Infrastructur|ts6|H|Infrastructure for AI labs to focus on research.
+Fa25|Unsiloed AI||ts2|H|API for parsing multimodal unstructured data
+Fa25|Multifactor| Security|ts6||Zero-trust authentication, authorization, and auditing for AI agents
+Fa25|Sciloop| Infrastructur|ts6||Expert STEM reasoning data for frontier AI labs.
+Fa25|Kestrel AI| Security|ts2||AI Agents for Platform Engineering
+Fa25|Rovr| Engineering, |ts3||AI FDE Engine that runs your engineering workflows
+Fa25|Compyle| Engineering, |ts2||The coding agent that actually collaborates with you
+Fa25|Paceline Bio|care|ts3||Biospecimen logistics & operations layer to accelerate drug dev
+Fa25|Radius| Engineering, |ts2||Code and browse in the same place
+Fa25|s2.dev| Infrastructur|ts5||API for unlimited, durable, real-time streams
+Fa25|Patent Watch||ts6||AI for detecting patent infringements
+Fa25|Imagine AI| Sales|ts5|H|We reverse engineer B2B growth, starting with LinkedIn.
+Fa25|Expected Parrot||ts5||Simulate your customers with AI agents
+Fa25|Scott AI||ts3|H|The planning layer for teams that build with coding agents
+Fa25|Aside|er|ts8|H|The browser built to do real work for you
+Fa25|Sourcebot| Engineering, |ts3|H|Helping humans and AI agents understand massive codebases
+Fa25|Lua Global Inc||ts5||The mid-market agent platform
+Fa25|Specific| Engineering, |ts2||The cloud platform built for coding agents
+Fa25|Denki| Finance and A|ts4||The full-stack AI financial audit firm
+Fa25|Karumi| Sales|ts6|H|The Waymo of Personalized demos
+Fa25|Perseus| Engineering, |ts4||Applied Lab focused on Search in Latent Spaces.
+Fa25|Lemma| Engineering, |ts2|H|Production Monitoring for AI agents
+Fa25|Boom AI||ts3||AI agents that recover lost revenue through real conversations.
+Fa25|The Hog| Marketing|ts2||Real-time web intelligence API for AI agents and GTM teams
+Fa25|Lightberry|rials -> Manuf|ts3|H|Robots with soul
+Fa25|Axial|rials -> Manuf|ts1||Accelerated Physics Kernels for Computational Engineering
+Fa25|Antigen| Engineering, |ts5|H|Continuous offensive security for the enterprise.
+Fa25|Fastshot| Engineering, |ts3||Lovable for mobile apps
+Fa25|Clicks Health| Productivity|ts8|H|AI agents for your healthcare back-office operations.
+Fa25|Dome| Infrastructur|ts2||A unified API for prediction markets, like Kalshi and Polymarket
+Fa25|Amika| Infrastructur|ts2||Infra to build your own software factory
+Fa25|Rivet| Engineering, |tsNone||Explore dozens of design directions with your agent
+Fa25|Coasts| Engineering, |ts2||Localhost service isolation and orchestration for git worktrees
+Wi26|Autumn AI| Infrastructur|ts2||Everything on anyone.
+Wi26|Button Computer| Engineering, |ts1||The tiny computer built for voice AI.
+Wi26|Agentic Fabriq| Security|ts2||The control plane for AI agents.
+Wi26|Captain| Infrastructur|ts2||Self-tuning search for products and files
+Wi26|Crosslayer Labs| Security|ts3||Protect, monitor and defend your Internet presence
+Wi26|Haladir| Supply Chain |ts4||Operational Superintelligence for Global Logistics
+Wi26|Mantis| Infrastructur|ts3||Digital Twins of humans
+Wi26|FullSeam| Finance and A|ts3||AI agents for corporate accounting teams
+Wi26|Corvera| Sales|ts4||The AI sales agent for CPG brands
+Wi26|Valgo| Engineering, |ts3||Insurance risk layer for physical AI
+Wi26|Payna||ts2|H| AI Licensing Agent for Regulated Industries
+Wi26|Didit| Infrastructur|ts16||Infrastructure for identity and fraud.
+Wi26|Quotient Labs| Productivity|ts2||Use Claude Code at 47% less cost in one line of installation.
+Wi26|Klaus AI| Infrastructur|ts2||Fast and Safe OpenClaw on the cloud
+Wi26|RunAnywhere| Infrastructur|ts5|H|Fastest inference anywhere: open models on-prem, hosted or on-device
+Wi26|Lance||ts10|H|AI Agents That Run Hotel Operations.
+Wi26|Lexius| Security|ts3||AI for Corporate Security Cameras
+Wi26|shortkit| Engineering, |ts2|H|Media infra for consumer apps
+Wi26|REV1| Engineering, |ts2||Claude Code for Mechanical Engineers
+Wi26|10x Science||ts5|H|The AI-native platform for next-generation protein characterization.
+Wi26|Sentrial| Engineering, |ts2||Datadog for Agent Reliability
+Wi26|Protent| Security|ts2||Real time intelligence for law enforcement & security teams.
+Wi26|Envariant||ts1||Interpretability and reasoning infra for foundation models.
+Wi26|CellType|care -> Drug D|ts5|H|The agentic drug company. We simulate human biology.
+Wi26|Piris Labs| Infrastructur|ts8|H|The Networking Layer of AI
+Wi26|OpenSpec||tsNone||Plan mode for complex features
+Wi26|/dev/fast||ts4||/dev/fast is the AI-native code forge
+Wi26|ZeroSettle|h -> Payments|ts2||Drop-in Direct Billing SDK for In-App Purchases
+Wi26|Avoice||ts7||AI-native workspace for AEC
+Wi26|21st| Engineering, |ts3||UI building blocks for the agentic internet
+Wi26|Cumulus Labs| Infrastructur|ts2|H|The Fastest Multimodal Inference OS
+Wi26|AutoSitu| Legal|ts2|H|The AI operating system for the built world
+Wi26|Zatanna| Engineering, |ts2||Turning all software into agent-first APIs
+Wi26|MouseCat||ts6||AI to fight financial crime
+Wi26|Skillsync| Engineering, |ts2||Notion for AI chats
+Wi26|Luel| Infrastructur|ts12||Turning everyday words and actions into usable training data.
+Wi26|Aemon||ts3|H|The Forward-Deployed AI Research Engineer 
+Wi26|CodeWisp|er -> Gaming|ts3||Anyone can create real games with AI
+Wi26|OctaPulse|rials -> Clima|ts2||CV and robotics to automate quality inspection in fish farms
+Wi26|Salus| Infrastructur|ts2|H|Guardrails to validate your agent's actions before they execute
+Wi26|Sparkles| Engineering, |ts1|H|Make everyone on your team an engineer
+Wi26|Fern| Infrastructur|ts2||RL environments for robotics companies
+Wi26|Orthogonal| Infrastructur|ts2|H|Agentic Payments for APIs
+Wi26|Compresr| Infrastructur|ts3||LLM context compression for better accuracy
+Wi26|IncidentFox| Infrastructur|ts2||AI SRE agent that triages, coordinates, and fixes production incidents
+Wi26|Unisson| Productivity|ts2||AI agents that automate B2B software implementation
+Wi26|Stilta||ts4|H|Agentic AI for intellectual property
+Wi26|Proximitty|h -> Credit an|ts2|H|AI operating system for commercial loans
+Wi26|Parameter| Security|ts14|H|Security builds trust. Strengthen both, all on one platform.
+Wi26|Pax Historia|er -> Gaming|ts6|H|The first AI-powered worldbuilding and gameplay platform
+Wi26|Jinba||ts11|H|Automate enterprise workflows through chat
+Wi26|Seeing Systems|rials -> Defen|ts7|H|Modular AI-Commanded Drones for Defence
+Wi26|Synthetic Sciences| Engineering, |ts2||Infrastructure for Autonomous Science
+Wi26|Visibl Semiconductors| Engineering, |ts3|H|Custom silicon for power electronics
+Wi26|Patientdesk.ai|care -> Health|ts5||AI front & back office agent for dental practices 
+Wi26|Chamber| Infrastructur|ts4||The AIOps Agent for ML Teams
+Wi26|Fenrock AI|h -> Banking a|ts2|H|AI agents for banks
+Wi26|Approxima| Engineering, |ts2||Your software should build itself.
+Wi26|Valence|h -> Consumer |ts3||Unified prediction markets trading platform
+Wi26|Reframe| Engineering, |ts1||AI-native, hardware procurement marketplace
+Wi26|Emdash| Productivity|ts2||Open-source Agentic Development Environment
+Wi26|Ressl AI||ts3|H|Train, eval and build autonomous agents
+Wi26|Robby| Productivity|ts3|H|AI agents that grow revenue for home services businesses
+Wi26|Samora AI||ts8||Multilingual voice agents that outperform humans
+Wi26|Oximy| Infrastructur|ts8||Take command of the AI your company already runs on.
+Wi26|Mendral||ts2||AI DevOps Engineer
+Wi26|Byteport||ts4||Global upload acceleration for 1GB-100TB files.
+Wi26|Pocket|er|ts35|H|Take Notes in the Real World
+Wi26|Ditto Biosciences|care -> Drug D|ts4||Evolutionary intelligence for autoimmune disease
+Wi26|Sequence Markets|h|ts5||Low-latency execution across crypto, prediction, and tokenized assets
+Wi26|Anchorhead| Engineering, |ts1||Evals for frontier research agents
+Wi26|Chasi||ts2|H|AI Revenue Engine for the Equipment Industry 
+Wi26|Corelayer| Engineering, |ts3||AI production engineer for regulated industries
+Wi26|Turnstone||ts3||Work with agents that already know you
+Wi26|Squid|rials -> Energ|ts5||AI agents for power grid planning  🦑 
+Wi26|Fed10| Legal|ts3||AI Agents for Government Affairs
+Wi26|BeeSafe AI| Security|ts3||Frontier AI Defenses for Social Engineering Attacks
+Wi26|The Token Company| Infrastructur|ts2||Compression middleware that improves LLM outputs
+Wi26|Moda| Infrastructur|ts6||Your agents should never make the same mistake twice.
+Wi26|Maven| Infrastructur|ts2||Payments for Conversational Agents
+Wi26|Grade|h|ts2||API for performance-based payroll
+Wi26|Canary| Engineering, |ts2||Adversarial AI that breaks your AI
+Wi26|Talking Computers||ts2||Real-time interaction models for voice agents
+Wi26|Veriad||ts2||AI operating system for advertising
+Wi26|VOYGR||tsNone|H|Real-world place intelligence for AI apps and agents
+Wi26|Khotan (formerly Pollinate)| Supply Chain |ts2||FDE as a platform for rebuilding critical operations in software.
+Wi26|Polymorph||ts4||Building secure polymorphic apps
+Wi26|Ossus| Infrastructur|ts3||Intelligence for cultural institutions
+Wi26|Aurorin CAD| Engineering, |ts1|H|Claude code for Mechanical Engineers
+Wi26|Unifold|h -> Payments|ts3||Multi-chain deposit and payment infrastructure
+Wi26|Wayco| Infrastructur|ts5|H|AI operator for medlegal cases
+Wi26|Shofo| Infrastructur|ts4||The World's Largest Video Library
+Wi26|Condor Energy|rials -> Energ|ts3||Software for enterprise energy procurement.
+Wi26|Martini| Engineering, |ts2||AI Video Production for Professionals
+Wi26|Cardinal||ts0|H|Revenue Agents for GTM teams
+Sp26|jo|er|ts2||The personal AI agent that keeps up with your work and life.
+Sp26|Autostep| Operations|ts1|H|The P&L for knowledge work
+Sp26|Humwork||ts2|H|Human experts as API for AI Agents
+Sp26|Miso Labs| Infrastructur|ts3|H|Emotive foundation voice models
+Sp26|FinalDose|care -> Therap|ts5||Programmable DNA drug destroying all cancers, unlocking 80% of targets
+Sp26|Prism| Recruiting an|ts3||AI-native recruiting agency
+Sp26|Teaflask||ts1||Make your product AI native by tomorrow.
+Sp26|Linzumi| Engineering, |ts3||Team chat to command all your company's coding agents
+Sp26|Sazabi| Infrastructur|ts10||The AI-native observability platform for fast-moving engineering teams
+Sp26|Netter| Analytics|ts4||AI agents for data science (enterprise)
+Sp26|Superset| Engineering, |ts4|H|Building self-improving software
+Sp26|Inth| Infrastructur|ts3||Monitor and fix product privacy issues before they block growth
+Sp26|Klarify|care -> Health|ts3|H|AI Agent for Therapists
+Sp26|primitive| Infrastructur|ts4|H|communication for agents
+Sp26|Stage| Engineering, |ts2||Code review platform for humans and agents
+Sp26|Replicas| Engineering, |ts2|H|Run any coding agent harness in the cloud
+Sp26|Scope||ts2||We help software companies get discovered and used by AI agents
+Sp26|Twolabs|rials -> Manuf|ts2||Humanoid robot platform for builders.
+Sp26|LightSprint| Engineering, |ts3|H|Software factory for product teams
+Sp26|Saffron| Recruiting an|ts3||Helping your company find 10x engineers. 
+Sp26|Zenbu| Engineering, |ts1||The browser for agentic development
+Sp26|Trellis| Operations|ts5||Agents that run short-term rental operations end-to-end
+Sp26|Atrisa| Engineering, |ts3|H|AI Agents for Analog Circuit Design
+Sp26|Hub| Infrastructur|ts40|H|Real-world training data for frontier AI labs and robotics.
+Sp26|Light Anchor|er|ts2||AI-run consumer brands
+Sp26|Limrun| Infrastructur|ts1|H|Extend cloud sandboxes with iOS, Android and more
+Sp26|Superlog| Engineering, |ts2||Make software self-healing
+Sp26|GovGuard|ment|ts0||Automating Government Workflows, starting with FOIA
+Sp26|Zolvo|h -> Credit an|ts3||AI Back-Office Automation for Commercial Lenders
+Sp26|Interfaze| Infrastructur|ts5|H|AI model built for high accuracy deterministic tasks
+Sp26|Elyra||ts5|H|AI Reservation System for Restaurants 
+Sp26|Deep Interactions||ts6||Collaborative AI app builder for teams
+Sp26|shotwell.ai|rials -> Manuf|ts4||Annotations for robotics data
+Sp26|Standout| Recruiting an|ts7|H|Agentic hiring marketplace
+Sp26|Antinuous||ts2||Autonomous research agents for R&D and applied science
+Sp26|Andco| Legal|ts3|H|Agents that build personal injury cases
+Sp26|Arga Labs||ts5||Real-world sandboxes to test and train AI agents
+Sp26|Dreach| Infrastructur|ts2||staffing firms with dreach grow revenue faster.
+Sp26|Synphony|rials -> Manuf|ts10||robots & software for farms
+Sp26|Callab AI| Operations|ts7|H|AI voice agents for on-prem telephony stack. 
+Sp26|Lamina Labs| Engineering, |ts2||Near-real-time video infrastructure for LLMs
+Sp26|Lab0||ts7|H|AI FDEs to make your B2B SaaS Go Live in Days, not Months
+Sp26|Gojiberry AI| Sales|ts7|H|AI Go-To-Market agents for B2B teams
+Sp26|Ontora| Operations|ts3||AI agents that interviews every employee to hand context to AI tools. 
+Sp26|Oddpool| Engineering, |ts2||Institutional infrastructure for prediction markets
+Sp26|Voquill|care|ts3||The agentic OS for medical labs
+Sp26|Keyframe Labs||ts2||Bring AI to life with the world's best interactive avatars
+Sp26|Harbor|care|ts3||AI-native CRO for clinical trial operations
+Sp26|smol machines| Infrastructur|ts1||Ship software faster with portable, self contained virtual machines.
+Sp26|River Markets|h|ts2||Prime brokerage for prediction markets
+Sp26|Minicor| Infrastructur|ts8|H|Scalable windows desktop automations
+Sp26|E1O|er -> Consumer|ts1||Camera-free AI glasses. Your AI, out in the world.
+Sp26|tday.com| Marketing|ts2||AI that turns your product into on-brand marketing content
+Sp26|Reason Machines| Productivity|ts2|H|Reason Machines builds Reason Agent, the autonomous software engineer…
+Sp26|Zibra Labs| Infrastructur|ts2||Distributed runtime for AI workloads at scale
+Sp26|Armature| Engineering, |ts3||We get your product picked by coding agents.
+Sp26|Tasklet| Productivity|ts8|H|Agents that own the work
+Sp26|Wato| Infrastructur|ts2||The control point for AI agents at work.
+Sp26|Ardent| Infrastructur|ts3|H|Database sandboxes for Agents
+Sp26|Silmaril||ts2||Security for agents that self-improves
+Sp26|Memory Store| Infrastructur|ts4||Company Brain.
+Sp26|Foaster||ts2||The AI-native McKinsey
+Sp26|Eden Robotics|rials -> Manuf|ts4|H|Autonomous services for humanity.
+Sp26|TesterArmy| Engineering, |ts6||Test your app with AI, catch bugs before users do
+Sp26|RASPIRE| Security|ts3||Autonomous Runtime Security
+Sp26|Hessian||ts3||Forward-deployed AI Agents
+Sp26|OpenProse| Engineering, |ts3||An open-source operating system for reliable long-running agents
+Sp26|Tolmo| Security|ts12||Tolmo is the AI security platform that secures every layer of cloud…
+Sp26|ProjectX| Infrastructur|ts8||Agent native workspace for heavy parallel workflows on the web 
+Sp26|Expanse| Infrastructur|ts4||Unlock wasted GPU capacity.
+Sp26|Runtime| Engineering, |ts7|H|The AI agent harness for payment teams
+Sp26|Kinect||ts2||The AI revenue platform for D2C brands
+Sp26|Gravy|h -> Consumer |ts2||Agents that move money, trade stocks, and file taxes.
+Sp26|AgentPhone| Infrastructur|tsNone|H|Phone Numbers for AI Agents
+Sp26|Arden| Finance and A|ts2||AI-native internal audit firm
+Sp26|Avea Robotics|rials -> Manuf|ts2||The human-in-the-loop system for robots
+Sp26|Manicule| Marketing|ts7|H|AgentRel — Devrel For Agents
+Sp26|KugelAudio| Infrastructur|ts4|H|Kugel is an on-prem Voice AI model supporting 30+ languages 
+Sp26|CentralComs|state and Cons|ts2||AI agent platform for home services companies.
+Sp26|InsForge (InstaCloud)| Engineering, |ts6||The agent-native serverless cloud
+Sp26|Enjamb Labs||ts2||The AI Workforce for Biopharma
+Sp26|Clawvisor| Security|ts1||The Authorization Layer for AI Agents
+Su26|Async||ts2||AI agents that run small businesses
+Su26|Induction Labs| Infrastructur|ts2||Building intellectually curious AI
+Su26|Evergrove|care|ts2||Instant healthcare for all, starting with work comp
+Su26|OneTriangle| Infrastructur|ts4||The cheapest, fastest inference cloud
+Su26|Archal| Infrastructur|ts2||API sandboxes, built for AI agents
+Su26|Ekpa|h -> Asset Man|ts2||Building Autonomous Research Agents for Trading
+Su26|Atlia|state and Cons|ts2||The AI-native property management company for short-term rentals
+Su26|Tsenta|er -> Job and |ts2|H|AI career agent that finds matching jobs & applies on your behalf
+Su26|Control Seat|rials|ts2||AI that runs factories. 
+Su26|OpenVector| Infrastructur|ts4||AI that turns any camera to an autonomous worker with real-time vision
+Su26|Litmus||ts3||Evals for humans
+Su26|Sidekick| Operations|ts1||AI agent that manages manufacturing operations over text
+Su26|Mentlio||ts0||Engineering Intelligence and Token Optimization for the AI-Coding Era
+Su26|Trident| Security|ts4||Autonomous offensive security agents. The best defense is offense
+Su26|Amorphic Labs| Engineering, |ts2||OpenRouter for Agent Tools
+Su26|Rindler| Engineering, |ts2||The IDE for Tokenmaxxers
+Su26|GitCafe| Infrastructur|ts1||The Git forge for the next hundred billion commits
+Su26|Hoplite| Engineering, |ts2||Effortlessly deploy cloud software factories.
+Su26|Moonshot|er|ts3||agents for the rest of us
+Su26|Parasma| Infrastructur|ts2|H|Replacing GPUs with human brain cells
+Su26|Trope||ts2||AI FDE that deploys custom AI agents into ERPs
+Su26|Palisade| Engineering, |ts1||AI-native sales agents that run marketplaces
+Su26|NebuSec| Security|ts4||Autonomous AI defense system for cyber attack
+Su26|Zomma||ts5||The AI BPO for financial servies, run by computer-use agents
+Su26|Rex| Finance and A|ts2|H|AI-native BPO for enterprise order-to-cash
+Su26|Studio| Analytics|ts2||Accurately simulate market response at scale
+Su26|Prized| Engineering, |ts2||A cloud devbox that feels local
+Su26|Orchestra| Infrastructur|ts2||Self-optimizing neocloud that cuts LLM costs by 100x
+Su26|Speko| Infrastructur|ts4||OpenRouter for Voice AI: one API, every call on the best speech model
+Su26|Jcode|er|ts1||High performance coding agents
+Su26|RealPact|state and Cons|ts2||AI-native OS for Real Estate Brokerages
+Su26|Riften| Infrastructur|ts5||Earned intelligence for every company
+Su26|Bizmark||ts2||OpenClaw for manufacturers
+Su26|Mosaic||ts2||Defining the frontier of multiplayer AI.
+Su26|Dialogus| Infrastructur|ts3||The AI-native contact center
+Su26|Glen| Productivity|ts1|H|Institutional Learning Layer for Every Agent in Your Company
+Su26|Context.dev| Infrastructur|ts6||We give AI agents realtime web context via API
+Su26|Codag| Infrastructur|ts1||The AI gateway for cheaper, faster, permissioned agents.
+Su26|Touchmark| Infrastructur|ts2||Market for future inference capacity
+Su26|Zaplar| Operations|ts3||Agentic Hotel Operating System
+Su26|Alkera AI| Engineering, |ts3||Reliable and safe data engineering and data science agents
+Su26|Tarifflo Inc.| Supply Chain |ts5||Supply chain compliance and cost savings
+Su26|Traceforce| Security|ts2||CrowdStrike for AI Agents
+Su26|Agency Tool Company|rials -> Manuf|ts3||Reliable infrastructure to build, deploy and manage real-world robots.
+Su26|Elite|care -> Health|ts2||Healthcare AI
+Su26|machine0| Infrastructur|ts1||AWS for Agents
+Su26|Nori|rials -> Manuf|ts5||The most capable American-made humanoid robot for $1,688
+Su26|Graphify Labs| Engineering, |ts1||On-device Knowledge Graph engine for Enterprise Software
+Su26|Hilstart|rials -> Manuf|ts0||Autonomous Hardware Testing
+Su26|TareBio|care -> Drug D|ts1||Vaccines for any cancer or infection in weeks.
+Su26|Almanac||ts3||Organizing company knowledge
+Su26|Whitespace| Supply Chain |ts2||AI Operating System for Wholesale Distribution
+Su26|Aktoria Robotics|rials -> Manuf|ts2|H|Human as API for robots
+Su26|Fabraix| Security|ts2||The world's frontier hacker of AI agents.
+Su26|Daqstra||ts3||AI-native test infrastructure layer for hardware companies
+Su26|Luca IQ| Finance and A|ts5|H|API-first tax engine for CPA firms and developers
+Su26|Executor| Infrastructur|ts1||The open source tool gateway
+Su26|Waybill| Supply Chain |ts3||Agentic procurement & inventory for deep tech teams.
+Su26|Lumeria|care -> Consum|ts3||Oura Ring for Skin
+Su26|Markov| Infrastructur|ts2||Expert computer-use data for frontier AI labs
+Su26|Inkbox| Infrastructur|ts3||The identity and communication layer for AI agents
+Su26|Agentcard|h|ts0||cards for AI agents
+Su26|Levocred AI|h|ts2||The Bloomberg of Loans
+Su26|Axelrod||ts2||Hotels that run themselves
+Su26|CarSignal||ts2||The AI Operating System for Auto Shops.
+Su26|Decawork| Infrastructur|ts2||Training company-specific models that approve AI actions.
+Su26|Tokenless| Infrastructur|ts3||We find flaws in RL environments and evals and help you fix them.
+Su26|Mireye| Infrastructur|ts2||Search Engine for the Physical World
+Su26|Lamb Labs||ts0||Lightning fast chips with hardcoded AI models
+Su26|Palisade| Security|ts1||AI that finds and fixes OS-level vulnerabilities across device fleets
+Su26|HyperProbe| Engineering, |ts8||AI engineer that debugs and fixes production incidents in realtime
+Su26|TovenAI|h -> Banking a|ts2||AI agents for compliance at institutional trading firms
+Su26|Verdict Machine| Security|ts4||AI cybersecurity for financial institutions' digital assets
+Su26|Dock||ts2||Multiplayer workspace for agents and humans
+Su26|OpenRelay| Engineering, |ts2||Distributed, hardware-agnostic AI inference
+Su26|Tracer||ts1||Combining open-source AI models for better answers at lower cost
+Su26|Nex| Sales|ts5||Grok bot for GTM & Revenue teams
+Su26|Autoresearch, Inc.| Infrastructur|ts3||Autoresearch as a service: we solve your hardest measurable problems
+Su26|Salem Robotics Inc|rials -> Manuf|ts2||Deploying robots to replace workers in hazardous spaces
+Su26|hardware intelligence| Engineering, |ts2||AI tools for the chips your AI runs on
+Su26|Magma| Infrastructur|ts1||Monetize your agent's traces.
+Su26|Caution| Infrastructur|ts5||Hosting platform for software you can't afford to have hacked
+Su26|CoArena| Engineering, |ts2||The biggest crowdsourced benchmark for Computer-Use
+Su26|Edviro| Infrastructur|ts2|H|AI That Operates Energy Infrastructure
+Su26|Experiential Labs| Infrastructur|ts2||Open source AI gateway that turns your traffic into better models
+Fa26|Tire Swing| Legal|ts2||AI Compliance for Affordable Housing
+Fa26|RightNow| Infrastructur|ts2||Co-designing the fastest intelligence
+Fa26|Grep AI| Productivity|ts6||Self-improving agents that automate tedious operational work
+Fa26|Simantic| Engineering, |ts4|H|Firmware simulation for AI agents
+Fa26|Voyager| Marketing|ts6|H|Open harness for video and other creative work.
+Fa26|Hue| Engineering, |ts2||Test agents in realistic worlds built from production usage
+Fa26|herdr| Engineering, |ts1||building the open agent runtime
+Fa26|Sentient OS| Productivity|ts2||On-device AI that knows your entire life and does your work overnight.
+Fa26|Simulithic| Engineering, |ts2||User simulations for production monitoring.
+Fa26|Veeza AI|er -> Travel, |ts2||AI tourist visa agent for people with weak passports.
+Fa26|Agent 37| Infrastructur|ts0||Persistent sandboxes for agents like hermes, openclaw, claude code
+Fa26|Faraday|rials|ts2||Agents running industrial enterprises from back office to shop floor
+Fa26|Boat| Infrastructur|ts3||The best cloud VMs for billions of agents
+Fa26|Stacktrace| Infrastructur|ts3||See and control what your agents actually do
+Fa26|Munito AI| Engineering, |ts1||Open-model inference provider for Europe, private by default.
+Fa26|Mirrors| Engineering, |ts2||Give AI agents the right context at the right moment
+Fa26|OnePatch| Engineering, |ts2||Automate on-call at agent-scale.
+Fa26|Bryel| Infrastructur|ts2||Building in-house, frontier AI labs for companies
+Fa26|River| Productivity|ts2||The AI desktop.
+Fa26|Hopper| Infrastructur|ts2||Fast inference for voice
+Fa26|ByteAsk| Engineering, |ts2||The AI coding agent for C and C++
+Fa26|Elimentary|h -> Asset Man|ts5||Agents that run middle/back-office operations for Private Capital
+Fa26|Agent Relay| Engineering, |ts2||The infrastructure to run coding agents for your team
+Fa26|Sintem| Infrastructur|ts1||Agentic phones for teams
+Fa26|Open Actuation|rials -> Manuf|ts2||Quick-turn, purpose-built motors & actuators for all
+Fa26|Workers IO| Engineering, |ts2|H|Simulation Environments for Verifying Mission Critical Software
+Fa26|Quivly AI||ts4||AI agents that run onboarding, adoption, and renewals
+Fa26|ORO AI| Engineering, |ts2||Continuously improving evals for agentic commerce
+Fa26|twentyfour26|rials -> Manuf|ts2||On Demand CNC Prototyping 
+Fa26|Rystic| Engineering, |ts2||API simulators for testing and training agents locally
+Fa26|Resin Technologies| Engineering, |ts0||Resin helps engineers design electronics faster and more reliably
+Fa26|Pomerado| Infrastructur|ts2||Turn any website into an MCP for your agents, in minutes
+Fa26|Hesper AI|h -> Insurance|ts2||AI Claims Investigator for Insurance
+Fa26|Latent| Security|ts1||Catch wrong LLM answers before your customers do
+Fa26|Sutrix|care|ts2||AI-native statistical analysis for patient outcomes
+Fa26|Sona8| Operations|ts5||Context layer for enterprise AI surveying employees with voice agents 
+Fa26|Composal||ts3||Swarms of agents acting like users to find bugs before release
+Fa26|Acyclic Labs| Infrastructur|ts2||Agent swarms that make long-running tasks exponentially faster
+Fa26|Tilion| Infrastructur|ts4||Super fast, unblockable browser infra for agents
+Fa26|Terse| Infrastructur|ts2||Durable state for AI agents
+Fa26|Frontrunner| Sales|ts2||Cursor for GTM
+Fa26|Ascenix|care -> Health|ts7||Clinical intelligence layer for skilled nursing facilities.
+Fa26|GrayPass| Infrastructur|ts2||Verify that the expected person is in control before key actions.
+Fa26|Lark|rials|ts2||Lark - AI agents that automate workflows for wholesale distributors
+Fa26|OpenHack| Security|ts1||Always-on AI security engineer
+Fa26|Maritime| Infrastructur|ts3||The managed cloud for AI agents.
+Fa26|DeepMark| Security|ts5||A live watermark inside AI voice that survives phone calls
+Fa26|Boxes.dev| Engineering, |ts2||Cloud development environments for AI coding
+Fa26|Mantle|rials -> Manuf|ts2||The pit crew for machines and robots.

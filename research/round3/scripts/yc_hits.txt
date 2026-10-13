@@ -1,0 +1,189 @@
+188
+Fall 2025 | AirCaps | 5 True | The AI copilot for in-person conversations.
+Fall 2025 | Uplane | 26 True | Replace marketing agencies with AI
+Fall 2025 | Scoop | 2 False | Automating regulatory submissions for life sciences
+Fall 2025 | Deeptrace | 4 True | AI agents for on-call
+Fall 2025 | Locus | 2 False | Payment infrastructure for AI agents
+Fall 2025 | The Context Company | 2 False | Find what's losing you customers and money in your AI agent and fix it
+Fall 2025 | dari.dev | 2 False | The Routing Layer for AI Agents
+Fall 2025 | Nessie | 3 True | The shared context layer for recursive companies - your work, your…
+Fall 2025 | Clerked | 3 False | AI clerks that automate your payables
+Fall 2025 | Unsiloed AI | 2 True | API for parsing multimodal unstructured data
+Fall 2025 | Multifactor | 6 False | Zero-trust authentication, authorization, and auditing for AI agents
+Fall 2025 | Kestrel AI | 2 False | AI Agents for Platform Engineering
+Fall 2025 | Logical | 2 False | A proactive desktop copilot. Clippy, but actually good.
+Fall 2025 | Aleph Lab | 2 False | AI language buddy in the games kids love
+Fall 2025 | Lexi | 15 False | AI Operating System for Legal Teams
+Fall 2025 | Compyle | 2 False | The coding agent that actually collaborates with you
+Fall 2025 | s2.dev | 5 False | API for unlimited, durable, real-time streams
+Fall 2025 | Patent Watch | 6 False | AI for detecting patent infringements
+Fall 2025 | Scott AI | 3 True | The planning layer for teams that build with coding agents
+Fall 2025 | Zalos | 10 True | Hire Zalos AI workers to run your finance department
+Fall 2025 | Sourcebot | 3 True | Helping humans and AI agents understand massive codebases
+Fall 2025 | Specific | 2 False | The cloud platform built for coding agents
+Fall 2025 | Metorial | 4 True | Agentic infrastructure to power AI-native companies.
+Fall 2025 | Denki | 4 False | The full-stack AI financial audit firm
+Fall 2025 | Perseus | 4 False | Applied Lab focused on Search in Latent Spaces.
+Fall 2025 | Lemma | 2 True | Production Monitoring for AI agents
+Fall 2025 | Rovi Health | 3 True | AI healthcare concierge for employees
+Fall 2025 | DiligenceSquared | 3 True | AI-powered market due diligence for investment decisions
+Fall 2025 | Axial | 1 False | Accelerated Physics Kernels for Computational Engineering
+Fall 2025 | Moss | 5 True | Real-time semantic search for Conversational AI
+Fall 2025 | Amika | 2 False | Infra to build your own software factory
+Fall 2025 | Openroll | 4 False | The AI workforce for People and Finance teams
+Fall 2025 | Coasts | 2 False | Localhost service isolation and orchestration for git worktrees
+Fall 2026 | Tire Swing | 2 False | AI Compliance for Affordable Housing
+Fall 2026 | Databuddy | 1 False | AI Data Analyst for fast-growing teams
+Fall 2026 | UFO.ai | 2 False | Next-generation agent operating system
+Fall 2026 | herdr | 1 False | building the open agent runtime
+Fall 2026 | Agent 37 | 0 False | Persistent sandboxes for agents like hermes, openclaw, claude code
+Fall 2026 | Boat | 3 False | The best cloud VMs for billions of agents
+Fall 2026 | ByteAsk | 2 False | The AI coding agent for C and C++
+Fall 2026 | Elimentary | 5 False | Agents that run middle/back-office operations for Private Capital
+Fall 2026 | Agent Relay | 2 False | The infrastructure to run coding agents for your team
+Fall 2026 | Sintem | 1 False | Agentic phones for teams
+Fall 2026 | Oasive | 1 False | Helping bond investors find what's rich or cheap, and why
+Fall 2026 | Hesper AI | 2 False | AI Claims Investigator for Insurance
+Fall 2026 | OpenSEO | 2 False | Open source alternative to Semrush and Ahrefs
+Fall 2026 | Reconero | 2 False | Reconero helps police officers automate their workflows with AI
+Fall 2026 | Sona8 | 5 False | Context layer for enterprise AI surveying employees with voice agents 
+Fall 2026 | Frontrunner | 2 False | Cursor for GTM
+Fall 2026 | GrayPass | 2 False | Verify that the expected person is in control before key actions.
+Fall 2026 | OpenHack | 1 False | Always-on AI security engineer
+Fall 2026 | Boxes.dev | 2 False | Cloud development environments for AI coding
+Spring 2025 | Willow | 7 True | The voice interface replacing your keyboard
+Spring 2025 | Frekil | 2 False | RWE Generation in minutes
+Spring 2025 | Golf | 1 False | Agentic AI Security and Governance
+Spring 2025 | cubic | 6 True | AI-powered code review platform
+Spring 2025 | Cua | 3 True | Give every agent a cloud desktop
+Spring 2025 | Capacitive | 2 False | The data gateway for agents.
+Spring 2025 | Method | 1 False | Agents that improve
+Spring 2025 | Kaelio | 8 False | The open-source context layer for data agents
+Spring 2025 | Clarm | 2 False | Build governed AI agents on your own data, without code
+Spring 2025 | Percival | 3 False | Accelerating data analysis for research
+Spring 2025 | Kaizen | 6 True | Automate anything on the web.
+Spring 2025 | RunRL | 2 False | Reinforcement learning as a service
+Spring 2025 | Nomi | 5 False | Realtime Sales Copilot
+Spring 2025 | IRBC | 3 False | AI-native financial institution for global businesses + agents.
+Spring 2025 | QualGent | 10 True | AI Mobile App Quality Assurance Tester
+Spring 2025 | Scalar Field | 3 True | Your Agentic Trading Desk — Building the next era of agentic…
+Spring 2025 | Mesmer | 7 True | The operating system for the 100x Engineering Team
+Spring 2025 | Probo | 6 False | We help you get compliant while you focus on your business.
+Spring 2025 | Moby Analytics | 4 False | AI financial auditors
+Spring 2025 | Code Four | 3 True | Modernizing the police workflow.
+Spring 2025 | Cactus | 2 False | All-In-One AI Growth Partner. Built for Trades.
+Spring 2026 | Humwork | 2 True | Human experts as API for AI Agents
+Spring 2026 | Linzumi | 3 False | Team chat to command all your company's coding agents
+Spring 2026 | Sazabi | 10 False | The AI-native observability platform for fast-moving engineering teams
+Spring 2026 | Superset | 4 True | Building self-improving software
+Spring 2026 | Stage | 2 False | Code review platform for humans and agents
+Spring 2026 | Memoir | 1 False | Everything your team ships, explained to everyone it affects.
+Spring 2026 | Multiplier | 3 True | Agent harnesses for asset managers
+Spring 2026 | Replicas | 2 True | Run any coding agent harness in the cloud
+Spring 2026 | Scope | 2 False | We help software companies get discovered and used by AI agents
+Spring 2026 | Limrun | 1 True | Extend cloud sandboxes with iOS, Android and more
+Spring 2026 | Superlog | 2 False | Make software self-healing
+Spring 2026 | GovGuard | 0 False | Automating Government Workflows, starting with FOIA
+Spring 2026 | Ontora | 3 False | AI agents that interviews every employee to hand context to AI tools. 
+Spring 2026 | Lumius | 4 True | Fast, smart, accessible 3D ultrasound that anyone can use
+Spring 2026 | Complir | 13 True | Vanta for physical products
+Spring 2026 | Harbor | 3 False | AI-native CRO for clinical trial operations
+Spring 2026 | Allowance | 1 False | The spend control layer for AI agents
+Spring 2026 | Minicor | 8 True | Scalable windows desktop automations
+Spring 2026 | E1O | 1 False | Camera-free AI glasses. Your AI, out in the world.
+Spring 2026 | tday.com | 2 False | AI that turns your product into on-brand marketing content
+Spring 2026 | Reason Machines | 2 True | Reason Machines builds Reason Agent, the autonomous software engineer…
+Spring 2026 | PLAN0 AI | 4 False | Construction Cost Intelligence.
+Spring 2026 | Armature | 3 False | We get your product picked by coding agents.
+Spring 2026 | Tasklet | 8 True | Agents that own the work
+Spring 2026 | TesterArmy | 6 False | Test your app with AI, catch bugs before users do
+Spring 2026 | Hessian | 3 False | Forward-deployed AI Agents
+Spring 2026 | Tolmo | 12 False | Tolmo is the AI security platform that secures every layer of cloud…
+Spring 2026 | ProjectX | 8 False | Agent native workspace for heavy parallel workflows on the web 
+Spring 2026 | Runtime | 7 True | The AI agent harness for payment teams
+Spring 2026 | Arden | 2 False | AI-native internal audit firm
+Spring 2026 | Lattice Health | 1 False | Monitoring and governance for deployed medical imaging AI
+Spring 2026 | Astraea | 6 True | AI Operating System for Clinical Development
+Spring 2026 | Framewise Health | 2 False | AI-native patient engagement
+Spring 2026 | HeyClicky | 0 False | The simplest interface in the world to talk AI models + spawn agents
+Summer 2025 | TraceRoot.AI | 4 True | Open Source AI Agent Improvement Platform
+Summer 2025 | truthsystems | 6 True | Automatically blocking risky behavior with real-time governance agents
+Summer 2025 | Alter | 2 False | Privileged Access Management for AI Agents
+Summer 2025 | Frizzle | 2 False | AI Grading for Teachers
+Summer 2025 | Kestroll | 2 False | AI video editor
+Summer 2025 | Slashy | 3 False | Cursor for Email
+Summer 2025 | Panoptive | 2 False | The continuous oversight engine for clinical trials
+Summer 2025 | Comena | 8 True | AI agents for distributors and manufacturers to automate order entry.
+Summer 2025 | Mimos | 2 False | The growth OS for plaintiff-side law firms
+Summer 2025 | Autosana | 5 False | AI agents for E2E testing across mobile & web
+Summer 2025 | Risely AI | 8 False | AI agents that automate administrative work across college campuses. 
+Summer 2025 | Socratix AI | 5 True | AI coworkers for fraud and compliance teams.
+Summer 2025 | Floot | 4 True | The app platform inside Claude and ChatGPT.
+Summer 2025 | Maximal | 3 False | Truckload Planning at Machine Precision
+Summer 2025 | Avelis Health | 3 False | We audit medical claims for self-insured employers and health plans.
+Summer 2025 | SigmanticAI | 2 False | The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs…
+Summer 2025 | Hera | 5 True | AI Motion Designer
+Summer 2025 | KERNEL | 22 False | Crazy fast, open source infra for AI agents to use the Internet
+Summer 2025 | Rebulk | 3 False | AI-native software for managing rail and bulk operations.
+Summer 2025 | TectoAI | 2 False | A Platform for AI Governance
+Summer 2025 | Ruvo | 11 False | The Global Dollar App for Brazil
+Summer 2026 | Async | 2 False | AI agents that run small businesses
+Summer 2026 | Rapidfolio | None False | AI-native back-office for banks and fintechs
+Summer 2026 | Archal | 2 False | API sandboxes, built for AI agents
+Summer 2026 | Mentlio | 0 False | Engineering Intelligence and Token Optimization for the AI-Coding Era
+Summer 2026 | Rindler | 2 False | The IDE for Tokenmaxxers
+Summer 2026 | HERA | 2 True | We make sure every factory in the world builds without mistakes.
+Summer 2026 | NebuSec | 4 False | Autonomous AI defense system for cyber attack
+Summer 2026 | Prized | 2 False | A cloud devbox that feels local
+Summer 2026 | Orchestra | 2 False | Self-optimizing neocloud that cuts LLM costs by 100x
+Summer 2026 | Jcode | 1 False | High performance coding agents
+Summer 2026 | Floracene | 2 True | Vibecode + deploy HIPAA-compliant internal tools, no eng team needed
+Summer 2026 | Mosaic | 2 False | Defining the frontier of multiplayer AI.
+Summer 2026 | Glen | 1 True | Institutional Learning Layer for Every Agent in Your Company
+Summer 2026 | Codag | 1 False | The AI gateway for cheaper, faster, permissioned agents.
+Summer 2026 | Manifold | 2 False | Drop-in robotic labor that works on Day 1
+Summer 2026 | Tarifflo Inc. | 5 False | Supply chain compliance and cost savings
+Summer 2026 | Pluto | 5 True | LinkedIn for agents
+Summer 2026 | machine0 | 1 False | AWS for Agents
+Summer 2026 | Aerogen Systems | 4 False | Modernizing Chip Manufacturing Infrastructure
+Summer 2026 | Daqstra | 3 False | AI-native test infrastructure layer for hardware companies
+Summer 2026 | Pennant | 2 True | The World Model for Corporate Governance
+Summer 2026 | HyperProbe | 8 False | AI engineer that debugs and fixes production incidents in realtime
+Summer 2026 | SpaceFlow Technologies, Inc. | 4 False | AI-native procurement services for the physical economy
+Summer 2026 | Salem Robotics Inc | 2 False | Deploying robots to replace workers in hazardous spaces
+Summer 2026 | Billow AI Labs | 0 False | AI-native Accounting Firm that's killing Deloitte
+Summer 2026 | Caution | 5 False | Hosting platform for software you can't afford to have hacked
+Summer 2026 | Conifer | 4 False | Least cost routing system to reduce 70%+ token spend
+Winter 2026 | Agentic Fabriq | 2 False | The control plane for AI agents.
+Winter 2026 | Oxus | 3 True | AI-powered automation for internal audit workflows
+Winter 2026 | Voltair | 5 True | Autonomous Drones for Earth Observation
+Winter 2026 | Quotient Labs | 2 False | Use Claude Code at 47% less cost in one line of installation.
+Winter 2026 | RunAnywhere | 5 True | Fastest inference anywhere: open models on-prem, hosted or on-device
+Winter 2026 | Mirabelle | 2 False | Your own chef at home
+Winter 2026 | Axis | 2 False | An AI Copilot for Trading Desks
+Winter 2026 | REV1 | 2 False | Claude Code for Mechanical Engineers
+Winter 2026 | Cofia | 3 False | AI automations that implement themselves
+Winter 2026 | Burt | 2 False | AI teammates for logistics
+Winter 2026 | OpenSpec | None False | Plan mode for complex features
+Winter 2026 | Cumulus Labs | 2 True | The Fastest Multimodal Inference OS
+Winter 2026 | Skillsync | 2 False | Notion for AI chats
+Winter 2026 | Ashr | 2 False | Enterprise post-training, monitoring, and continual learning platform
+Winter 2026 | CodeWisp | 3 False | Anyone can create real games with AI
+Winter 2026 | Salus | 2 True | Guardrails to validate your agent's actions before they execute
+Winter 2026 | Sponge | 3 False | Financial infrastructure for the agent economy
+Winter 2026 | Compresr | 3 False | LLM context compression for better accuracy
+Winter 2026 | Unisson | 2 False | AI agents that automate B2B software implementation
+Winter 2026 | Stilta | 4 True | Agentic AI for intellectual property
+Winter 2026 | Jinba | 11 True | Automate enterprise workflows through chat
+Winter 2026 | End Close | 2 False | AI powered reconciliation for high-volume payments companies
+Winter 2026 | Emdash | 2 False | Open-source Agentic Development Environment
+Winter 2026 | Samora AI | 8 False | Multilingual voice agents that outperform humans
+Winter 2026 | Mendral | 2 False | AI DevOps Engineer
+Winter 2026 | Doomersion | 4 False | Doomscroll to learn languages
+Winter 2026 | Corelayer | 3 False | AI production engineer for regulated industries
+Winter 2026 | Canary | 2 False | Adversarial AI that breaks your AI
+Winter 2026 | SpotPay | 2 False | Stablecoin Global Bank Account
+Winter 2026 | Fixture | 5 False | An agentic CRM built for Startups
+Winter 2026 | Aurorin CAD | 1 True | Claude code for Mechanical Engineers
+Winter 2026 | Carrot Labs | 2 False | AI Cost Management: Track and attribute AI spend across every provider
+Winter 2026 | Wideframe | 2 False | AI coworker for video editors to ship more video faster

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { color-scheme: light; }
+  html.dark { color-scheme: dark; }
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased dark:bg-slate-950 dark:text-slate-200;
+    font-feature-settings: 'cv11', 'ss01', 'tnum';
+  }
+  h1, h2, h3 { @apply tracking-tight; }
+  ::selection { @apply bg-emerald-200/60 dark:bg-emerald-500/30; }
+}
+
+@layer components {
+  .card { @apply rounded-xl border border-slate-200 bg-white shadow-card dark:border-slate-800 dark:bg-slate-900; }
+  .card-pad { @apply p-5; }
+  .btn { @apply inline-flex items-center justify-center gap-1.5 rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-500/60 disabled:cursor-not-allowed disabled:opacity-50; }
+  .btn-primary { @apply btn border-emerald-600 bg-emerald-600 text-white hover:bg-emerald-700 dark:border-emerald-500 dark:bg-emerald-500 dark:text-slate-950 dark:hover:bg-emerald-400; }
+  .btn-secondary { @apply btn border-slate-200 bg-white text-slate-700 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800; }
+  .btn-ghost { @apply btn border-transparent text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800; }
+  .btn-danger { @apply btn border-rose-600 bg-rose-600 text-white hover:bg-rose-700; }
+  .btn-sm { @apply px-2.5 py-1 text-xs; }
+  .input { @apply w-full rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-sm text-slate-800 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100; }
+  .th { @apply whitespace-nowrap px-4 py-2.5 text-left text-[11px] font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400; }
+  .td { @apply px-4 py-3 text-sm; }
+  .num { @apply tabular-nums; }
+  .label-xs { @apply text-[11px] font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400; }
+}
+
+.recharts-cartesian-axis-tick-value { font-variant-numeric: tabular-nums; }
+.skeleton { @apply animate-pulse rounded-md bg-slate-200/70 dark:bg-slate-800; }
+
+:root { --tt-bg: #ffffff; --tt-fg: #0f172a; --tt-bd: #e2e8f0; --grid: #e2e8f0; }
+.dark { --tt-bg: #0f172a; --tt-fg: #e2e8f0; --tt-bd: #334155; --grid: #1e293b; }
